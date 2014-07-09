@@ -3,45 +3,23 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#slider1 {
-	 z-index: 5;
-	 width: 435px;
-	 height: 37px;
-	 top: 1px;
-	 left: 21px;
-	
-	 position: absolute;
-	 
-}
-
-#button1 {
-	 z-index: 4;
-	 width: 92px;
-	 height: 22px;
-	 top: 61px;
-	 left: 363px;
-	
-	 position: absolute;
-	 
-}
-
 #dataGrid2 {
 	 z-index: 2;
-	 width: 300px;
-	 height: 300px;
-	 top: 168px;
-	 left: 93px;
+	 width: 507px;
+	 height: 210px;
+	 top: 56px;
+	 left: 8px;
 	
 	 position: absolute;
 	 
 }
 
-#login1 {
-	 z-index: 1;
-	 width: 185px;
-	 height: 80px;
-	 top: 60px;
-	 left: 124px;
+#button3 {
+	 z-index: 7;
+	 width: 92px;
+	 height: 22px;
+	 top: 315px;
+	 left: 188px;
 	
 	 position: absolute;
 	 
