@@ -3,6 +3,86 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#label3 {
+	 z-index: 6;
+	 width: 99px;
+	 height: 13px;
+	 top: 108px;
+	 left: 20px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#dataGrid1 {
+	 z-index: 6;
+	 width: 300px;
+	 height: 300px;
+	 top: 126px;
+	 left: 20px;
+	
+	 position: absolute;
+	 
+}
+
+#label2 {
+	 z-index: 4;
+	 width: 75px;
+	 height: 13px;
+	 top: 66px;
+	 left: 15px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#textField2 {
+	 z-index: 4;
+	 width: 130px;
+	 height: 22px;
+	 top: 62px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#label1 {
+	 z-index: 2;
+	 width: 75px;
+	 height: 13px;
+	 top: 24px;
+	 left: 15px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#textField1 {
+	 z-index: 2;
+	 width: 130px;
+	 height: 22px;
+	 top: 20px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 {
+	 z-index: 9;
+	 width: 507px;
+	 height: 446px;
+	 top: 342px;
+	 left: 4px;
+	
+	 position: absolute;
+	 
+}
+
 #dataGrid2 {
 	 z-index: 2;
 	 width: 507px;

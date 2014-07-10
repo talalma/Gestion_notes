@@ -11,7 +11,7 @@
 					"pathVisible": true,
 					"position": {
 						"X": 10,
-						"Y": 24
+						"Y": 77
 					}
 				}
 			},
@@ -21,8 +21,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 315,
-						"Y": 220
+						"X": 239,
+						"Y": 296
 					}
 				}
 			}
